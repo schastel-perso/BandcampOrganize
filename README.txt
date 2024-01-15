@@ -14,7 +14,7 @@ options:
                         Working directory (default: /tmp/bandcamp)
   -o TARGETDIR, -t TARGETDIR, --targetdir TARGETDIR
                         The target directory (final directory is targetdir/band/album)
-                        (default: /home/sc/Music)
+                        (default: $HOME/Music)
   --doit
   --band_album_delimiter_dash_delimiter BAND_ALBUM_DELIMITER_DASH_DELIMITER
                         Position of the - that delimits the band and the album (default: 1)
